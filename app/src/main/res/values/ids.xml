@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btSoma" type="id" />
+    <item name="btSub" type="id" />
+    <item name="btMult" type="id" />
+    <item name="btDiv" type="id" />
+    <item name="idLabelTextView" type="id" />
+</resources>
